@@ -1,6 +1,18 @@
-# Órbita • MapaTrader
+# Órbita 
 
-Calculadora PWA sem dependências: responsiva, teclado, histórico local, copiar resultado e uso offline após o primeiro acesso.
+Órbita é uma calculadora feita para quem só quer resolver contas sem drama. Nada de botões escondidos ou menus infinitos — aqui é digitar, calcular e seguir viagem.
+
+O que ela faz (sem frescura)
+Soma, subtrai, multiplica e divide sem reclamar
+
+Aguenta uns cálculos mais parrudos também
+
+Guarda o histórico, porque ninguém merece refazer conta perdida
+
+Interface simples, limpa e sem enfeite desnecessário
+
+Por que usar?
+Porque às vezes você só precisa de uma calculadora que funcione. Orbita é isso: prática, direta e sempre pronta para salvar seu dia
 
 ## Executar
 
